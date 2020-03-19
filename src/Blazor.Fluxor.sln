@@ -11,9 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-State and reducers", "01
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Requesting server data via Effects", "02-Requesting server data via Effects", "{0486E8E0-F968-4D98-AEB1-6BEF6EF4E412}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Redux dev tools integraton", "03-Redux dev tools integraton", "{E1FEF7FC-6871-43EA-8E58-AB019F4AEC58}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Redux dev tools integraton", "04-Redux dev tools integraton", "{E1FEF7FC-6871-43EA-8E58-AB019F4AEC58}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Middleware sample", "04-Middleware sample", "{415FF6D9-06F9-44DD-BD46-5857F8B868C4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Middleware sample", "03-Middleware sample", "{415FF6D9-06F9-44DD-BD46-5857F8B868C4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{2279CD95-5886-4777-B019-E66683CE32F1}"
 EndProject
