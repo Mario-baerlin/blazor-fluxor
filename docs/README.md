@@ -21,8 +21,8 @@ The easiest way to get started is to look at the [Sample projects][8]. They are 
 More sample projects will be added as the framework develops.
   * [Counter sample][4] - Fluxorizes `Counter` page in the standard Visual Studio Blazor sample in order to show how to switch to a Redux/Flux pattern application using Fluxor.
   * [Effects sample][5] - Fluxorizes `FetchData` page in the standard Visual Studio Blazor sample in order to demonstrate asynchronous reactions to actions that are dispatched.
-  * [Redux dev tools integration][6] - Demonstrates how to enable debugger integration for the [Redux dev tools] Chrome plugin.
   * [Custom Middleware][7] - Demonstrates how to create custom Middleware to intercept actions etc.
+  * [Redux dev tools integration][6] - Demonstrates how to enable debugger integration for the [Redux dev tools] Chrome plugin.
   * [Blazor Flight Finder][9] - A conversion of the official Blazor `Flight Finder` demo.
 
 ## What's new

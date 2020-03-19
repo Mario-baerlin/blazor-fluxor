@@ -14,8 +14,7 @@
 		<AssemblyVersion>2.0.1.0</AssemblyVersion>
 		<FileVersion>2.0.1.0</FileVersion>
 		<Version>2.0.1</Version>
-		<PackageLicenseFile>LICENCE</PackageLicenseFile>
-		<PackageIconUrl>https://raw.githubusercontent.com/mrpmorris/blazor-fluxor/master/docs/images/blazor-fluxor-logo-small.png</PackageIconUrl>
+		<PackageLicenseFile></PackageLicenseFile>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
@@ -36,10 +35,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<None Include="..\..\LICENCE">
-			<Pack>True</Pack>
-			<PackagePath></PackagePath>
-		</None>
+	  <None Include="..\..\docs\images\blazor-fluxor-logo-small.png">
+	    <Pack>True</Pack>
+	    <PackagePath></PackagePath>
+	  </None>
 	</ItemGroup>
 
 	<PropertyGroup>
@@ -47,5 +46,7 @@
 		<IsPackable>true</IsPackable>
 		<BlazorLinkOnBuild>false</BlazorLinkOnBuild>
 		<LangVersion>7.3</LangVersion>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageIcon>blazor-fluxor-logo-small.png</PackageIcon>
 	</PropertyGroup>
 </Project>
