@@ -27,6 +27,9 @@ More sample projects will be added as the framework develops.
 
 ## What's new
 
+### New in 2.0.1
+  * Bug fix for ([#134](https://github.com/mrpmorris/blazor-fluxor/issues/134)) - URLs not taking into account query parameters
+
 ### New in 2.0
   * Change `@Store.Initialize` to `<Blazor.Fluxor.StoreInitializer/>` component, to allow async calls (fixes #120)
  
