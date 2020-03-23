@@ -1,7 +1,12 @@
 # Blazor-Fluxor
+
 ![](./images/blazor-fluxor-logo.png)
 
 Blazor-Fluxor is a zero boilerplate Flux/Redux library for the new [Microsoft Asp.Net Blazor project][3].
+## Note: This library has been superseded
+*Blazor.Fluxor* has now been migrated to **[Fluxor](https://github.com/mrpmorris/fluxor)** - a
+UI agnostic Flux pattern for .NET!
+
 
 ## Introduction
 If you are new to Fluxor, or to the Flux/Redux approach in general then [this YouTube video by Nick Chapsas][10] is an excellent introduction.
